@@ -7,10 +7,10 @@
   "prefer-stable": true,
   "require": {
     "php": "^7.4 || ^8.0",
-    "ext-json": "*",
-    "ext-grpc": "*"
+    "ext-json": "*"
   },
   "require-dev": {
+    "ext-grpc": "*",
     "composer/xdebug-handler": "^2.0",
     "open-telemetry/dev-tools": "dev-main"
   },
